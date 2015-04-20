@@ -1,0 +1,17 @@
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Release\Project2.exe.config
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Release\Project2.exe
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Release\Project2.pdb
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.exe
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.pdb
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\WorkshopForum.csprojResolveAssemblyReference.cache
+F:\Project2\Project2\bin\Release\Project2.exe.config
+F:\Project2\Project2\obj\Release\Project2.exe
+F:\Project2\Project2\obj\Release\Project2.pdb
+F:\Project2\Project2\bin\Release\Project2.exe
+F:\Project2\Project2\bin\Release\Project2.pdb
+F:\Project2\Project2\obj\Release\WorkshopForum.csprojResolveAssemblyReference.cache
+C:\Users\Matan\Desktop\Project2\Project2\bin\Release\Project2.exe.config
+C:\Users\Matan\Desktop\Project2\Project2\obj\Release\Project2.exe
+C:\Users\Matan\Desktop\Project2\Project2\obj\Release\Project2.pdb
+C:\Users\Matan\Desktop\Project2\Project2\bin\Release\Project2.exe
+C:\Users\Matan\Desktop\Project2\Project2\bin\Release\Project2.pdb

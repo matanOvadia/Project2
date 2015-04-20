@@ -1,0 +1,7 @@
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\UnitTests\bin\Debug\Project2.exe
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\UnitTests\bin\Debug\Project2.pdb

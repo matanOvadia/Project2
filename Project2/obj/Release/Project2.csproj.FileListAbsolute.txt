@@ -1,0 +1,8 @@
+c:\users\matan\documents\visual studio 2013\Projects\Project2\Project2\bin\Release\Project2.exe.config
+c:\users\matan\documents\visual studio 2013\Projects\Project2\Project2\bin\Release\Project2.exe
+c:\users\matan\documents\visual studio 2013\Projects\Project2\Project2\bin\Release\Project2.pdb
+c:\users\matan\documents\visual studio 2013\Projects\Project2\Project2\obj\Release\Project2.exe
+c:\users\matan\documents\visual studio 2013\Projects\Project2\Project2\obj\Release\Project2.pdb
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Release\Project2.exe.config
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.exe
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.pdb

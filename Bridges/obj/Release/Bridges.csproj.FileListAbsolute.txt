@@ -1,0 +1,24 @@
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Bridges\obj\Release\Bridges.csprojResolveAssemblyReference.cache
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Bridges\bin\Release\Bridges.exe.config
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Bridges\bin\Release\Bridges.exe
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Bridges\bin\Release\Bridges.pdb
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Bridges\bin\Release\Project2.exe
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Bridges\bin\Release\Project2.pdb
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Bridges\obj\Release\Bridges.exe
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\Bridges\obj\Release\Bridges.pdb
+F:\Project2\Bridges\bin\Release\Bridges.exe.config
+F:\Project2\Bridges\bin\Release\Bridges.exe
+F:\Project2\Bridges\bin\Release\Bridges.pdb
+F:\Project2\Bridges\bin\Release\Project2.exe
+F:\Project2\Bridges\bin\Release\Project2.pdb
+F:\Project2\Bridges\obj\Release\Bridges.csprojResolveAssemblyReference.cache
+F:\Project2\Bridges\obj\Release\Bridges.exe
+F:\Project2\Bridges\obj\Release\Bridges.pdb
+C:\Users\Matan\Desktop\Project2\Bridges\bin\Release\Bridges.exe.config
+C:\Users\Matan\Desktop\Project2\Bridges\bin\Release\Bridges.exe
+C:\Users\Matan\Desktop\Project2\Bridges\bin\Release\Bridges.pdb
+C:\Users\Matan\Desktop\Project2\Bridges\bin\Release\Project2.exe
+C:\Users\Matan\Desktop\Project2\Bridges\bin\Release\Project2.pdb
+C:\Users\Matan\Desktop\Project2\Bridges\obj\Release\Bridges.csprojResolveAssemblyReference.cache
+C:\Users\Matan\Desktop\Project2\Bridges\obj\Release\Bridges.exe
+C:\Users\Matan\Desktop\Project2\Bridges\obj\Release\Bridges.pdb

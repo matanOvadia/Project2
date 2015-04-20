@@ -1,0 +1,27 @@
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\AcceptanceTests\obj\Release\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\AcceptanceTests\bin\Release\AcceptanceTests.dll
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\AcceptanceTests\bin\Release\AcceptanceTests.pdb
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\AcceptanceTests\bin\Release\Bridges.exe
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\AcceptanceTests\bin\Release\Project2.exe
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\AcceptanceTests\bin\Release\Bridges.pdb
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\AcceptanceTests\bin\Release\Project2.pdb
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\AcceptanceTests\obj\Release\AcceptanceTests.dll
+C:\Users\nero\Documents\Visual Studio 2013\Projects\Project2\AcceptanceTests\obj\Release\AcceptanceTests.pdb
+F:\Project2\AcceptanceTests\bin\Release\AcceptanceTests.dll
+F:\Project2\AcceptanceTests\bin\Release\AcceptanceTests.pdb
+F:\Project2\AcceptanceTests\bin\Release\Bridges.exe
+F:\Project2\AcceptanceTests\bin\Release\Project2.exe
+F:\Project2\AcceptanceTests\bin\Release\Bridges.pdb
+F:\Project2\AcceptanceTests\bin\Release\Project2.pdb
+F:\Project2\AcceptanceTests\obj\Release\AcceptanceTests.csprojResolveAssemblyReference.cache
+F:\Project2\AcceptanceTests\obj\Release\AcceptanceTests.dll
+F:\Project2\AcceptanceTests\obj\Release\AcceptanceTests.pdb
+C:\Users\Matan\Desktop\Project2\AcceptanceTests\bin\Release\AcceptanceTests.dll
+C:\Users\Matan\Desktop\Project2\AcceptanceTests\bin\Release\AcceptanceTests.pdb
+C:\Users\Matan\Desktop\Project2\AcceptanceTests\bin\Release\Bridges.exe
+C:\Users\Matan\Desktop\Project2\AcceptanceTests\bin\Release\Project2.exe
+C:\Users\Matan\Desktop\Project2\AcceptanceTests\bin\Release\Bridges.pdb
+C:\Users\Matan\Desktop\Project2\AcceptanceTests\bin\Release\Project2.pdb
+C:\Users\Matan\Desktop\Project2\AcceptanceTests\obj\Release\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\Matan\Desktop\Project2\AcceptanceTests\obj\Release\AcceptanceTests.dll
+C:\Users\Matan\Desktop\Project2\AcceptanceTests\obj\Release\AcceptanceTests.pdb
